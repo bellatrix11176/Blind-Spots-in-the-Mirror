@@ -155,17 +155,6 @@ Key citations: Flavell (1979), Nelson & Narens (1990), Guo et al. (2017), Naeini
 
 Simulated Kardashev Classification: Type II — Resolution Mastery  
 *Note: Simulation uses mock judge. Real Kaggle execution expected to show higher discriminatory spread.*
-
----
-
-## Status
-
-- [x] Phase 1 — Theoretical foundation (2 papers)
-- [x] Phase 2 — Dataset construction (148 items)
-- [x] Phase 3 — Task code (3 tasks, SDK-compliant)
-- [ ] Phase 4 — Run benchmark against frontier models
-- [ ] Phase 5 — Writeup + submission
-
 ---
 
 *© 2026 Gina Aulabaugh, PixelKraze, LLC*  
