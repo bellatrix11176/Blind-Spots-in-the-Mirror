@@ -101,18 +101,6 @@ blind_spots_in_the_mirror/
 ├── LICENSE.md
 └── README.md
 ```
-
----
-
-## Setup
-
-```powershell
-py -m pip install kaggle-benchmarks
-py src\utils\process_datasets.py
-py src\utils\smoke_test_local.py     # Should show 8/8 PASS
-py src\utils\simulate_local.py
-```
-
 ---
 
 ## Theoretical Foundation
