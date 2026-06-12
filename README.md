@@ -153,8 +153,6 @@ Key citations: Flavell (1979), Nelson & Narens (1990), Guo et al. (2017), Naeini
 | Task 3 — Control | 0.8000 |
 | Overall | 0.7461 |
 
-Simulated Kardashev Classification: Type II — Resolution Mastery  
-*Note: Simulation uses mock judge. Real Kaggle execution expected to show higher discriminatory spread.*
 ---
 
 *© 2026 Gina Aulabaugh, PixelKraze, LLC*  
